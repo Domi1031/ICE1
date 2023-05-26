@@ -56,14 +56,14 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is [Your Name]");
+        System.out.println("My name is Dominik Wator");
         System.out.println();
         
-        System.out.println("My career ambitions:");
-        System.out.println("-- [Your career ambitions]");
+        System.out.println("My Carrer Ambitions");
+        System.out.println("My Carrer Ambitions are to get a stable and high paying job so I can provide for my family");
         System.out.println();
         
         System.out.println("My hobbies:");
-        System.out.println("-- [Your hobbies]");
+        System.out.println("My Hobbies are Playing Soccer/Football, Snowboarding, playing video games, reading, just to name a few");
     }
 }
