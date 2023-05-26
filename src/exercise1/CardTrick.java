@@ -52,6 +52,7 @@ public class CardTrick {
      * A simple method to print out personal information.
      * Replace this information with your own.
      */
+    //Im Done
     private static void printInfo() {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
